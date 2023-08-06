@@ -2,6 +2,6 @@
 Меня зовут Игорь и я начинающий Java разработчик. Активно занимаюсь изучением новых тем и планирую устроиться работать по данной специальности
 
 ### Мои инструменты 
-![Static Badge](https://img.shields.io/badge/Java?logo=Java)
+![code](https://img.shields.io/badge/Java?logo=Java)
 
 
